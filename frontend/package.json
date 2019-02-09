@@ -1,0 +1,11 @@
+{
+  "name": "home_media_server_frontend",
+  "version": "1.0.0",
+  "description": "frontendpart for media server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iurii_Novikov",
+  "license": "ISC"
+}
